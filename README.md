@@ -1,1 +1,4 @@
-# simulacao-ao-soapy
+Soapy (AOtools/Soapy) é uma biblioteca para simulações de Óptica Adaptativa de Monte-Carlo, escrita na linguagem de programação Python. Por ser em python é possível utilizá-la em diversas plataforma que suportam a linguagem como Windows, Linux, Mac, ambientes de desenvolvimento na nuvem como Web IDEs (Ambiente de desenvolvimento integrado) ou os populares notebooks Google Colab, Jupyter, Kaggle, entre outros.
+Essa biblioteca possibilita aplicar rapidamente conceitos de Óptica Adaptativa, sendo assim uma ótima ferramenta de entrada para iniciantes em estudos no campo da AO (Adaptive Optics). Com poucas linhas de código ela consegue entregar simulações de ponta a ponta, mas também oferece flexibilidade no uso de seus componentes¹ de forma individual para dar origem a novas abordagens de simulação.
+
+Neste repositório segue um notebook python com exemplos de utilização da biblioteca.
